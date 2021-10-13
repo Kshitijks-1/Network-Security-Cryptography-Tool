@@ -128,6 +128,7 @@ This does the RSA encyption of message 'msg' using key 'e' and modulas 'N'
 
 
 
+![RSA](https://user-images.githubusercontent.com/78027791/137094694-f6d06863-8bd2-49b3-a740-12547592a835.png)
 
 
 
